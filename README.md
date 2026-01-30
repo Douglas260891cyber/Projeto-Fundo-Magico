@@ -35,6 +35,3 @@ Projeto desenvolvido como parte da Semana do Zero ao Programador Contratado, pro
 👨‍💻 Autor
 Douglas Moro
 🔗 GitHub: @Douglas260891cyber
-
-Douglas Moro
-🔗 GitHub: @Douglas260891cyber
