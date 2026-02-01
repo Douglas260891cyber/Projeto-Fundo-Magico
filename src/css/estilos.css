@@ -27,8 +27,6 @@ body {
 .container {
     max-width: 1024px;
     margin: 0 auto;
-    position: relative;
-    z-index: 99;
 }
 
 .card {
@@ -110,7 +108,7 @@ body {
     border-radius: 8px;
     padding: 16px;
     font-size: 14px;
-    
+
     white-space: pre-wrap;
     word-wrap: break-word;
 }
